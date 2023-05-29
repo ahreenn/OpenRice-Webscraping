@@ -1,0 +1,251 @@
+restaurant_name,price_range_per_head,good_ratings,bad_ratings,full_address,district,cuisine,dish,written_reviews,bookmarks
+Tearapy 茶聊,$101-200,1149,45,"1/F, 189 Portland Street, Mong Kok",Mong Kok,International,Hamburger,1514,72200
+The Captain's House,$201-400,1386,54,"18/F, H8, 8 Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Western,Seafood,1625,65700
+Outdark (厚福街),$101-200,900,22,"17/F, H8, 8 Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Korean,Korean Fried Chicken,1059,61500
+Yadllie Plate 야들리애플래이트,$101-200,1183,66,"11/F, CTMA Centre, 1 Sai Yeung Choi Street, Mong Kok",Mong Kok,Korean,Korean Fried Chicken,1571,117800
+Outdark (飛達商業中心),$201-400,1175,28,"2/F, Fee Tat Commercial Centre, 613 Nathan Road, Mong Kok",Mong Kok,Korean,,1370,67800
+Towada Sushi 十和田總本店,$201-400,1216,40,"G/F, Chinachem Cameron Centre, 42 Cameron Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Sushi/Sashimi,1398,46000
+The Grill Room (The Humphreys),$201-400,1190,43,"2/F, The Humphreys, 6-6A Humphrey's Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Western,Steak House,1376,75500
+OPPA Coffee Bar Restaurant,$101-200,1362,125,"G/F, 1F Kimberley Street, Tsim Sha Tsui",Tsim Sha Tsui,Korean,,1657,46100
+Boholic,$101-200,941,28,"G & 1/F, Sea Panorama Court, 561 Fuk Wa Street, Cheung Sha Wan",Cheung Sha Wan,International,Dessert,1101,40100
+Sky726,$201-400,1049,58,"25/F, 726 Nathan Road, Mong Kok",Mong Kok,French,Dessert,1327,88500
+Hanook Korean Restaurant 韓屋,$101-200,800,54,"G/F, Beauty Mansion, 69-71A Kimberly Road, Tsim Sha Tsui",Tsim Sha Tsui,Korean,,964,39600
+Gram cafe & pancakes,$101-200,1047,149,"Shop L408, 4/F, The ONE, 100 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Dessert,1494,21700
+Amitie Kitchen,$201-400,989,15,"9/F, H8, 8 Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Italian,Food Wise Eateries,1063,36700
+Non Kitchen,$101-200,999,7,"1/F, Gemmy Factory Building, 12 Hung To Road, Kwun Tong",Kwun Tong,Western,Pizza,1064,24500
+KOKON2 (Kwun Tong Industrial Centre) 古今二 (官塘工業中心),$201-400,833,14,"Room B, 1/F, Kwun Tong Industrial Centre Phase 4, 436-446 Kwun Tong Road, Kwun Tong",Kwun Tong,Japanese,Sushi/Sashimi,988,36700
+OMG Mamaday Mamaday,$101-200,875,19,"2/F, Southgate Commercial Centre, 29 Granville Road, Tsim Sha Tsui",Tsim Sha Tsui,International,Pizza,1025,52900
+Bellevue Bar and Grill,$201-400,889,8,"23/F, Grand Place, 558-560 Nathan Road, Mong Kok",Mong Kok,Western,Dessert,997,39500
+CURATOR Art & Café,$101-200,802,16,"Shop B113C, B1/F, K11 Musea, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,Cake,936,36300
+URBAN Cafe (彌敦道),$51-100,1202,16,"2/F, Kiu Kin Mansion, 566-568A Nathan Road, Mong Kok",Mong Kok,International,Dessert,1366,45500
+Doctor Beans 哈豆,$51-100,955,16,"Room A, 3/F, Fully Industrial Building, 6 Tsun Yip Lane, Kwun Tong",Kwun Tong,Taiwan,Taiwanese Drink,1114,23800
+Mr. Crab by The Captain's House,$401-800,1199,30,"Shop C, G/F-1/F, 74-78 Johnstan Road, Wan Chai",Wan Chai,Western,Seafood,1336,40900
+Cobber Coffee and Tonys Pastry,$101-200,521,6,"1/F, World Interests Building, 8 Tsun Yip Street, Kwun Tong",Kwun Tong,Western,Dessert,667,63000
+Shinko 申子居酒屋,$201-400,808,18,"Shop 1, G/F, Ngai Hing Mansion, 74-76 Hak Po Street, Mong Kok",Mong Kok,Japanese,Wine,907,48200
+Dodam Chicken (利舞臺廣場),$101-200,1215,29,"18/F., Shop A, Lee Theatre Plaza, 99 Percival Street, Causeway Bay",Causeway Bay,Korean,Korean Fried Chicken,1438,62900
+MOO MOO,$51-100,805,4,"Shop 1A, G/F, Hung To Centre, 94-96 How Ming Street, Kwun Tong",Kwun Tong,Western,Hamburger,890,18800
+LAB EAT Restaurant & Bar (T.O.P This is Our Place),$201-400,867,32,"Shop 502, 5/F, T.O.P. This is Our Place, 700 Nathan Road, Mong Kok",Mong Kok,Western,Seafood,1067,63400
+Ann Mamma Thai kitchen by 張秀玲,$101-200,598,12,"G/F, 11 Tso Kung Square, Tsuen Wan",Tsuen Wan,Thai,Curry,699,28600
+Aidan Cafe (Kwun Tong View) 小火焰韓式咖啡廳 (觀點中心),$101-200,1265,28,"Shop 1, 1/F, Kwun Tong View, 410 Kwun Tong Rd, Kwun Tong",Kwun Tong,Korean,Dessert,1538,40700
+Station 3 Cafe 第三站,$51-100,1047,61,"Flat 08-09, 25/F, Golden Era Plaza, 39 Sai Yee Street, Mong Kok",Mong Kok,Italian,Coffee Shop,1268,56400
+Pyeong Chang 平昌,$201-400,704,49,"13/F, CTMA Centre, 1 Sai Yeung Choi Street, Mong Kok",Mong Kok,Korean,Roast Meat,887,82500
+Poach 蟲二,$101-200,548,45,"Rooftop, 618 Shanghai Street, Mong Kok",Mong Kok,Japanese,Cake,757,41300
+Shoken 初見,$101-200,836,25,"Shop F, G/F, Wah Tat Building, 22 Hoi Pa Street, Tsuen Wan",Tsuen Wan,Japanese,Hot Pot,970,32600
+Kokon 古今,$201-400,831,10,"21/F, Macau Yat Yuen Centre, 525 Hennessy Road, Causeway Bay",Causeway Bay,Japanese,Ramen,899,25100
+The Grill Room (The L. Square),$201-400,1286,59,"5/F, The L. Square, 459-461 Lockhart Road, Causeway Bay",Causeway Bay,Western,Steak House,1560,80400
+Tea Brush 茶墨,Below $50,808,25,"Shop L411, 4/F, The ONE, 100 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Tea House,1059,9400
+homemadecafe 部屋咖啡室,$101-200,861,22,"12/F, Dundas Square, 43H Dundas Street, Mong Kok",Mong Kok,Western,Upper-floor Cafe,974,26500
+L'AMOUR,$201-400,739,20,"Shop 38, G/F, Tai Wo Centre, 15 Tai Wo Road, Tai Po",Tai Po,International,Fine Dining,804,19000
+Wall Is Eat 慢理牆城,$201-400,764,20,"1/F, M1 Hotel, 28 Portland Street, Yau Ma Tei",Yau Ma Tei,Western,Dessert,950,71400
+Chicken HOF & SOJU (Hillwood Road) 李家 (山林道),$201-400,539,8,"Shop 2, G/F, The Leader Commercial Building, 54-56 Hillwood Road, Tsim Sha Tsui",Tsim Sha Tsui,Korean,Korean Fried Chicken,602,26700
+Bakehouse,$51-100,651,24,"G/F, 14 Tai Wong Street East, Wan Chai",Wan Chai,Western,Bakery,949,65800
+Burgeroom (美麗華廣場一期),$101-200,1195,27,"Shop 207, L2, Mira Place One, 132 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,American,Hamburger,1407,48900
+Mini Friday (銀城廣場),$101-200,942,66,"9/F, Ginza Plaza, 2 Sai Yeung Choi Street South, Mong Kok",Mong Kok,Western,Steak House,1212,56300
+FAB Kitchen,$201-400,580,15,"Shop 704, 7/F, Elite Industrial Centre, 883 Cheung Sha Wan Road, Lai Chi Kok",Lai Chi Kok,Western,Private Kitchen,640,19300
+Grand Ding House 淥鼎記,$201-400,660,24,"8/F, One Pacific Centre, 414 Kwun Tong Road, Kwun Tong",Kwun Tong,Hong Kong Style,Hot Pot,797,50600
+Flame Japanese Cuisine 焱丸水產,$201-400,1130,26,"Shop 5&6, G/F, Wah Fung Building, 23 Minden Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Seafood,1290,59900
+Espresso Alchemy,$101-200,963,21,"Shop B116, B1, Miramar Shopping Centre, 132 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,Sandwich,1111,17600
+AHAN THAI 阿閒泰,$101-200,640,28,"Shop 219, 2/F, K11 Art Mall, 18 Hanoi Road, Tsim Sha Tsui",Tsim Sha Tsui,Thai,Noodles/Rice Noodles,758,21400
+JUST'er Bar & Restaurant,$101-200,1059,27,"Shop A1-A2, G/F, 13 Hillwood Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Seafood,1167,24600
+Aping Grill 安平燒肉,$201-400,507,16,"9/F, Chong Hing Square, 593-601 Nathan Road, Mong Kok",Mong Kok,Taiwan,Roast Meat,589,37900
+Milu Thai มิลู่ไทย,$101-200,986,8,"2/F, 3 Yiu Wa Street, Bartlock Centre, Causeway Bay",Causeway Bay,Thai,Seafood,1087,33500
+MOO MOO Plus (Fashion Walk),$101-200,710,10,"Shop C&D, G/F, Riviera Mansion, 59-65 Paterson Street, Causeway Bay",Causeway Bay,Western,Hamburger,781,19500
+Plato Cafe & Bistro (吳松街),$201-400,989,31,"G/F, 186-188 Woosung Street, Jordan",Jordan,Italian,Dessert,1126,50800
+Lady Nara,$101-200,573,15,"Shop 3303, 3/F, Gateway Arcade, Harbour City, 3-27 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,,697,22500
+Kobekyu (Bartlock Centre) 吉列牛忌廉烏冬專門店 (百樂中心),$101-200,998,29,"22/F, Bartlock Centre, 3 Yiu Wa Street, Causeway Bay",Causeway Bay,Korean,Ramen,1151,38500
+Kikanbo 鬼金棒,$101-200,593,6,"G/F, 20 Cameron Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Ramen,701,16400
+Yuki House Ramen 幸屋,$51-100,646,20,"G/F, Wai Cheong Building, 5-9A Gresson Street, Wan Chai",Wan Chai,Japanese,Ramen,729,17600
+Master Beef (Tai Hung Fai Tsuen Wan Centre) 牛大人台灣火鍋吃到飽 (大鴻輝(荃灣)中心),$101-200,536,10,"16/F, Tai Hung Fai Tsuen Wan Centre, 55 Chung On Street, Tsuen Wan",Tsuen Wan,Taiwan,Hot Pot,628,47700
+Master Beef (King Wah Centre) 牛大人台灣火鍋吃到飽 (瓊華中心),$201-400,442,2,"9/F, King Wah Centre, 628 Nathan Road, Mong Kok",Mong Kok,Taiwan,Hot Pot,500,45100
+Double Cafe 孖啡,$101-200,870,50,"4/F, Ko's House, 577 Nathan Road, Mong Kok",Mong Kok,Western,Dessert,1118,70800
+Nan Ei Sui San 南瀛水產,$201-400,821,35,"5/F, Tern Plaza, 3A-3C Cameron Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Seafood,939,42000
+Taiwanese Hot Pot (Kyoto Plaza) 老鍋台式火鍋 (京都廣場),$201-400,806,19,"2/F, Kyoto Plaza, 491-499 Lockhart Road, Causeway Bay",Causeway Bay,Taiwan,Hot Pot,875,27200
+Sun Moon Church 日月堂,$51-100,458,11,"Room C2, 4/F, Wing Hing Industrial Building, 14 Hing Yip Street, Kwun Tong",Kwun Tong,Taiwan,Taiwanese Drink,525,19200
+URBAN Cafe (駱駝漆大廈),$51-100,839,11,"6/F, Camelpaint Building Block 1, 62 Hoi Yuen Road, Kwun Tong",Kwun Tong,International,Dessert,953,25200
+E Pot (XX Arcade) 一鍋堂 (XX Arcade),$101-200,877,20,"2/F, East Wing, XX Arcade, 60-104 Soy Street, Mong Kok",Mong Kok,Hong Kong Style,Hot Pot,1023,36300
+Bingo & Cook,$101-200,1344,25,"2/F, L'Hart, 487-489 Lockhart Road, Causeway Bay",Causeway Bay,Korean,Korean Fried Chicken,1537,53400
+Sun Thai Restaurant 新泰東南亞餐廳,$101-200,720,14,"Shop 1A, G/F & B/F, BCC Building, 25-31 Carnarvon Road, Tsim Sha Tsui",Tsim Sha Tsui,Thai,Curry,831,24500
+ATUM Restaurant,$201-400,779,36,"Shop 101B, 1/F, K11 Art Mall, 18 Hanoi Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,Seafood,1004,72000
+Peko Peko Eatery (OP Mall) Peko Peko Eatery (海之戀商場),$101-200,481,25,"Shop 1006-1007, 1/F, OP Mall, 100 Tai Ho Road, Tsuen Wan",Tsuen Wan,Western,Yoshoku,629,36400
+Yakiniku More 牛魔,$201-400,787,21,"Shop 5-6, G/F, 8 Minden Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,BBQ,870,37100
+J-City 丼瀛,$101-200,536,9,"Shop B, 1/F, COS Centre, 56 Tsun Yip Street, Kwun Tong",Kwun Tong,Japanese,Sushi/Sashimi,589,18800
+The Cheesecake Factory 芝樂坊餐廳,$101-200,811,72,"Shop G102, G/F, Gateway Arcade, Harbour City, 25 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,International,Hamburger,1340,69100
+Isono Suisan 磯野水產,$201-400,885,11,"19/F, Macau Yat Yuen Centre, 525 Hennessy Road, Causeway Bay",Causeway Bay,Japanese,Seafood,926,28900
+Tsukiji Japanese Restaurant (Island Beverley) 築地日本料理 (金百利廣場),$101-200,828,19,"Room R1, 7/F, Island Beverley, 1 Great George Street, Causeway Bay",Causeway Bay,Japanese,Sushi/Sashimi,935,21000
+Vision 8,$401-800,834,14,"G/F, Wing On House, 34 Shiu Wo Street, Tsuen Wan",Tsuen Wan,International,,946,22300
+Little Vegas,$101-200,1135,46,"25/F, Bartlock Centre, 3 Yiu Wa Street, Causeway Bay",Causeway Bay,Western,Pizza,1392,51100
+Master Beef (Carnarvon Plaza) 牛大人台灣火鍋吃到飽 (加拿芬廣場),$101-200,460,12,"2/F, Carnarvon Plaza, 20 Carnarvon Road, Tsim Sha Tsui",Tsim Sha Tsui,Taiwan,Hot Pot,562,64700
+G One Sushi Japanese Restaurant (Hau Fook Street) 鮨一 (厚福街),$401-800,803,32,"18/F-20/F, The Lamma Tower, 12 Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Sushi/Sashimi,1018,56800
+Fukuoka Hambageu (Hau Fook Street) 福岡漢堡扒 (厚福街),$101-200,521,10,"Shop A, G/F, 11 Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Korean,Korean BBQ,609,16400
+Hong Kong Wing Nin 香港永年車仔麵茶冰廳,$101-200,643,21,"Shop 113, L1/F, New Town Plaza, 18 Sha Tin Centre Street, Sha Tin",Sha Tin,Hong Kong Style,Food Stall Noodles,747,11700
+Homeland (東昌街),$101-200,537,14,"G/F, 2 Tung Cheung Street, Tai Po",Tai Po,Western,Wine,634,25800
+Beauty in The Pot (Gala Place) 美滋鍋 (家樂坊),$201-400,747,10,"Shop 803, 8/F, Gala Place, 56 Dundas Street, Mong Kok",Mong Kok,Hong Kong Style,Hot Pot,841,37400
+家後,Below $50,486,4,"G/F, 211 Ki Lung Street, Sham Shui Po",Sham Shui Po,Hong Kong Style,Noodles/Rice Noodles,569,26800
+hoo 포차 hoo韓國包車,$101-200,442,19,"22/F, The Lamma Tower, 12-12A Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Korean,Wine,557,25000
+Toretore Hamayaki 漁獲浜燒,$201-400,1083,9,"18/F, Macau Yat Yuen Centre, 525 Hennessy Road, Causeway Bay",Causeway Bay,Japanese,,1140,46100
+Master Beef (Causeway Bay Plaza 2) 牛大人台灣火鍋吃到飽 (銅鑼灣廣場二期),$101-200,417,13,"5/F, Causeway Bay Plaza 2, 463-483 Lockhart Road, Causeway Bay",Causeway Bay,Taiwan,Hot Pot,498,42300
+Kikanbo 鬼金棒,$101-200,561,6,"G/F, 530 Jaffe Road, Causeway Bay",Causeway Bay,Japanese,Ramen,644,13300
+JEJU BULGOGI 濟州燒肉食堂,$101-200,482,15,"Shop 210, 2/F, Harbour North Phase 2, 123 Java Road, North Point",North Point,Korean,Korean BBQ,570,29100
+Susan chicken rice 蘇山雞飯,$51-100,504,6,"G/F, Yee Wa Building, 411 Un Chau Street, Cheung Sha Wan",Cheung Sha Wan,Singaporean,Malaysian,570,15600
+Minibangkok Thai Food Station 小曼谷泰國美食站,$101-200,735,10,"Shop B02, Basement, Tower 535, 535 Jaffe Road, Causeway Bay",Causeway Bay,Thai,Food Wise Eateries,783,19200
+811 Sichuan Cuisine (Nelson Street) 捌壹壹 (奶路臣街),$101-200,685,18,"Shop F, G/F, 33 Nelson Street, Mong Kok",Mong Kok,Sichuan,Hot Pot,806,27600
+Odelice! (The ONE),$201-400,747,40,"Shop L407, 4/F, The ONE, 100 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,French,Western,966,53500
+8Five2 Restobar,$101-200,561,17,"Shop 2, G/F, 8 Observatory Road, Tsim Sha Tsui",Tsim Sha Tsui,Mexican,,640,31500
+am.pm,Below $50,632,40,"Shop B, G/F, Grand Place, 560 Nathan Road, Yau Ma Tei",Yau Ma Tei,Western,Dessert,925,14800
+Nagasakayaki 長阪燒,$201-400,643,17,"2/F, 189 Portland Street, Mong Kok",Mong Kok,Japanese,Robatayaki,747,33000
+Flames (海濱匯),$101-200,500,18,"Shop 2, 1/F, Quayside, 77 Hoi Bun Road, Kwun Tong",Kwun Tong,International,,593,26400
+Nara Thai Cuisine (港威商場),$101-200,463,11,"Shop 3303, 3/F, Gateway Arcade, Harbour City, 3-27 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,Thai,,522,11400
+My Ahjussi,$101-200,431,7,"G/F, 39 Tai Tsun Street, Tai Kok Tsui",Tai Kok Tsui,Korean,Vegetarian,470,14100
+Crazy Noodles (Kai Tak Commercial Building) 瘋狂小面 (佳德商業大廈),$51-100,689,31,"1/F, Kai Tak commercial Building, 66-72 Stanley Street, Central",Central,Sichuan,Noodles/Rice Noodles,836,29800
+Running Chicken (The Lamma City) 米走雞 (太子藍馬之城),$101-200,861,19,"2/F, The Lamma City, 761 Nathan Road, Mong Kok",Mong Kok,Hong Kong Style,Hot Pot,986,41200
+Under Vacuum The Steak 慢煮工業,$51-100,804,64,"G/F, 91 Prince Edward Road West, Prince Edward",Prince Edward,Western,Sandwich,1092,53900
+Espresso Alchemy,$101-200,563,0,"Shop 104, G/F, Harbour City, Gateway Arcade, 3-27 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,All Day Breakfast,610,10000
+Mini Bangkok Seafood and Grill 小曼谷海鮮燒烤屋,$101-200,806,23,"Shop 1-3, G/F, The Prince Place, 398 Prince Edward Road West, Kowloon City",Kowloon City,Thai,Seafood,936,27700
+Cambo ขุนทอง  (The ONE),$101-200,879,88,"Shop L403, 4/F, The ONE, 100 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Thai,,1246,58200
+豐信餃子店,Below $50,533,16,"Shop A, G/F, 17 Yu Chau Street, Prince Edward",Prince Edward,Hong Kong Style,Wonton/Dumpling,627,24900
+KOKON2 (Kolour Tsuen Wan) 古今二 (荃灣千色匯),$201-400,569,18,"Shop 3013, 3/F, Kolour Tsuen Wan l, 68 Chung On Street, Tsuen Wan",Tsuen Wan,Japanese,Sushi/Sashimi,650,11700
+Café Crêpe (K11),$101-200,441,8,"Shop G29, G/F, K11 Art Mall, 18 Hanoi Road, Tsim Sha Tsui",Tsim Sha Tsui,International,Pizza,490,9900
+Wulu Restaurant 醉胡爐,$201-400,880,13,"G/F, Perfect Commercial Building, 20 Austin Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Hong Kong Style,Hot Pot,964,32200
+NIHON RYORI 日本野,$101-200,699,42,"9/F, Ginza Plaza, 2A Sai Yeung Choi Street South, Mong Kok",Mong Kok,Japanese,Roast Meat,822,28600
+CHEF STAGE de Eddy Chu,$201-400,1097,39,"19/F, 17-19 Ashley Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,Wine,1238,64400
+J.moon,$101-200,482,15,"Shop 10-11, 4/F, Pakpolee Commercial Centre, 1A-1K Sai Yeung Choi Street South, Mong Kok",Mong Kok,International,Wine,542,33300
+KUROMON AQUATIC JAPANESE RESTAURANT 黑門水產すいさん,$201-400,755,35,"Shop 3 & 4, G/F, 8 Minden Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Seafood,867,38500
+Burgeroom (Fashion Walk),$101-200,1382,70,"Shop D, G/F, Food Street, Fashion Walk, 50-56 Paterson Street, Causeway Bay",Causeway Bay,American,Hamburger,1671,53800
+Big Boils Club 滾得囍宮廷火鍋小炒,$201-400,791,11,"Shop 116-125, 1/F, Marble Garden, 33 Marble Road, North Point",North Point,Guangdong,Hot Pot,858,24000
+Aroy Khao Man Gai 阿來泰式地道風味,$51-100,972,40,"G/F, 97 Tung Choi Street, Mong Kok",Mong Kok,Thai,,1134,36500
+Mini Friday (The Wave),$101-200,823,49,"3/F, The Wave, 4 Hing Yip Street, Kwun Tong",Kwun Tong,Western,Steak House,1061,56900
+ULURU,$101-200,802,18,"1/F, Chun Fai Building, 1-11 Spring Garden Lane, Wan Chai",Wan Chai,Western,Coffee Shop,942,30600
+Thai Chang House 泰象館,$101-200,637,18,"G/F, 48 South Wall Road, Kowloon City",Kowloon City,Thai,Seafood,751,17800
+A Tavola Bar & Grill,$201-400,475,14,"Shop G08, G/F, MONTEREY Place, 23 Tong Chun Street, O'South Coast, Tseung Kwan O",Tseung Kwan O,Italian,Seafood,529,13900
+Some Day Or One Day Cafe 走過十萬八千里找到你,$201-400,446,37,"10/F, Ladder Dundas, 575 Nathan Road, Mong Kok",Mong Kok,Italian,Coffee Shop,602,30900
+Al Forno Cafe and Bar,$101-200,474,9,"G/F, 218 Gloucester Road, Causeway Bay",Causeway Bay,Western,Pizza,533,26500
+Ocio (東港城),$101-200,501,14,"Shop 238, 2/F, East Point City, 8 Chung Wa Road, Hang Hau, Tseung Kwan O",Tseung Kwan O,International,Dessert,575,11000
+Cheng Du Old Pier Hot Pot 成都老碼頭火鍋,$201-400,734,22,"G/F, 61 Tong Mei Road, Mong Kok",Mong Kok,Sichuan,Hot Pot,850,28100
+Champak Restaurant by ATUM (The Forest) 青花 (The Forest),$101-200,813,64,"Shop 107-108, 1/F, The Forest, 17 Nelson Street, Mong Kok",Mong Kok,Thai,Curry,1143,57900
+Aping Grill 安平燒肉,$201-400,376,8,"17/F, Tai Hung Fai Tsuen Wan Centre, 55 Chung On Street, Tsuen Wan",Tsuen Wan,Taiwan,Roast Meat,414,20200
+Mokumoku Yakiton (厚福街),$201-400,534,15,"16/F, The Lamma Tower, 12 Hau Fook Street, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Skewer,572,27600
+Not Just Coffee (Man Hoo Court) 不籽是咖啡 (文豪閣),$101-200,380,14,"Shop D, G/F, Man Hoo Court , 450 Nathan Road, Yau Ma Tei",Yau Ma Tei,Japanese,Coffee Shop,484,29900
+Hainan Shaoye 海南少爺,$101-200,601,38,"Shop 16, G/F, Ocean Terminal, Harbour City, 3-27 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,Singaporean,Group Dining,765,12400
+INN - I’m Not Nothing (裕民坊YM²),$51-100,483,13,"Shop 205, 2/F, Yue Man Square, 33 Hip Wo Street, Kwun Tong",Kwun Tong,International,Dessert,575,19100
+Lucky Ristorante,$101-200,409,6,"Shop 301B, 3/F, 618 Shanghai Street, Mong Kok",Mong Kok,Italian,Pizza,465,14500
+NAM VIET NAM CAFÉ 南越南咖啡廳,$51-100,606,11,"1/F, 726 Nathan Road, Mong Kok",Mong Kok,Vietnamese,,673,20800
+i kitchen,$101-200,820,22,"Shop 1, 2/F, Crown Industrial Building, 106 How Ming Street, Kwun Tong",Kwun Tong,Western,Dessert,934,28600
+반찬앤쿡 Banchan and Cook (時代廣場),$101-200,436,30,"Shop 922-923, 9/F, Times Square, 1 Matheson Street, Causeway Bay",Causeway Bay,Korean,,596,29200
+Lagom Kaffe,$101-200,450,23,"1/F, Two Harbour Square, 180 Wai Yip Street, Kwun Tong",Kwun Tong,Western,Dessert,584,38000
+Thai Tuk Tuk 泰嘟嘟,$51-100,441,5,"G/F, 14 Li Tak Street, Tai Kok Tsui",Tai Kok Tsui,Thai,,484,12100
+One Point Zero One 壹.01,$51-100,566,9,"Shop D, 2/F, COS Centre, 56 Tsun Yip Street, Kwun Tong",Kwun Tong,Hong Kong Style,Taiwanese Drink,652,15200
+The Charcoal Room 柞木炭家,$201-400,550,9,"Shop 501, 5/F, T.O.P This is Our Place, 700 Nathan Road, Mong Kok",Mong Kok,Korean,Korean BBQ,652,41400
+LOST STARS LIVEHOUSE BAR & EATERY,$101-200,777,18,"Shop 506, G/F, Phase 1, Square Mile, 11 Li Tak Street, Tai Kok Tsui",Tai Kok Tsui,International,Wine,872,38500
+MEMOIR,$201-400,498,2,"17/F, Circle Tower, 28 Tang Lung Street, Causeway Bay",Causeway Bay,Western,Seafood,531,13100
+Spicy Restaurant (Tsuen Bik Building) 麻辣風雲 (荃碧大廈),$201-400,736,26,"1/F, Tsuen Bik Building, 108-114 Hoi Pa Street, Tsuen Wan",Tsuen Wan,Sichuan,Noodles/Rice Noodles,877,26300
+Tora Tetsu Teppan Yaki 虎鐵鐵板燒,Above $801,530,7,"12/F, Macau Yat Yuen Centre, 525 Hennessy Road, Causeway Bay",Causeway Bay,Japanese,Teppanyaki,556,21900
+Amplifier Restaurant (花園街),$101-200,552,6,"Shop B, 1/F, Hung Wai Building, 3-5 Fa Yuen Street, Mong Kok",Mong Kok,Western,Wine,604,18400
+Yakiniku Shin 燒肉臻,$201-400,435,4,"Shop 102, 1/F, Multifield Plaza, 3-7A Prat Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,BBQ,463,21100
+Yat Tung Heen 逸東軒,$201-400,411,16,"Level B2, Eaton HK, 380 Nathan Road, Jordan",Jordan,Guangdong,Seafood,579,31200
+Layback Cafe & Bar,$101-200,371,3,"Shop 02-03, 17/F, Bartlock Centre, 3 Yiu Wa Street, Causeway Bay",Causeway Bay,Western,All Day Breakfast,396,20000
+Ho Lan Jeng 何蘭正,$101-200,420,4,"2/F, LKF29, 29 Wyndham Street, Central",Central,International,Bar,452,17900
+Issyokemen 一生懸麵,$51-100,423,10,"G/F, 73 Tung Choi Street, Mong Kok",Mong Kok,Japanese,Ramen,557,28300
+Tasty Hotpot Palace 香香宮煮,$201-400,468,6,"1/F, Golden Glory Mansion, 16 Carnarvon Road, Tsim Sha Tsui",Tsim Sha Tsui,Hong Kong Style,Hot Pot,516,25000
+Xuan Sushi 玄鮨,Above $801,705,8,"7/F, Cubus, 1 Hoi Ping Road, Causeway Bay",Causeway Bay,Japanese,Sushi/Sashimi,745,17500
+Seorae 喜來稀肉,$101-200,509,8,"Shop 3, G/F & 1/F, Golden Dragon Building, 41-51 Tang Lung Street, Causeway Bay",Causeway Bay,Korean,Roast Meat,585,28800
+Kobekyu (Nathan Road) 吉列牛忌廉烏冬專門店 (彌敦道),$101-200,817,59,"17/F, 726 Nathan Road, Mong Kok",Mong Kok,Korean,Udon,1136,50800
+Cuisine Culture,$201-400,425,8,"Shop 203, 2/F, Yip Fung Building, 12 D'Aguilar Street, Central",Central,French,Private Kitchen,469,15700
+18樓雞煲火鍋專門店,$201-400,776,8,"18/F, Emperor Plaza, 55 Chung On Street, Tsuen Wan",Tsuen Wan,Guangdong,Hot Pot,851,32600
+Shinko 申子居酒屋,$201-400,358,6,"9/F, Jardine Centre, 50 Jardine's Bazaar, Causeway Bay",Causeway Bay,Japanese,Wine,391,20700
+Deer Kitchen (荃新天地),$101-200,418,25,"Shop G06A,G06B&G07, G/F, City Walk 1, 1 Yeung Uk Road, Tsuen Wan",Tsuen Wan,Western,Wine,500,14000
+The Musicbox Grill House & Bar,$201-400,656,0,"8/F, The L Square, 459-461 Lockhart Road, Causeway Bay",Causeway Bay,Western,Steak House,686,17800
+Goobne Chicken (V Point ),$101-200,712,15,"25/F, V Point, 18 Tang Lung Street, Causeway Bay",Causeway Bay,Korean,Korean Fried Chicken,819,25600
+Dim Sum Here Mix Seafood 點心到 MIX·大排檔,$101-200,375,2,"Shop 1A,1B,1C, G/F, Golden Era Plaza, 39-55 Sai Yee Street, Mong Kok",Mong Kok,Guangdong,Dim Sum,418,8600
+Chili Party (Soravit on Granville Hotel) 麻辣派對 (瑞生酒店),$101-200,533,30,"1/F, Soravit on Granville Hotel, 29A Granville Road, Tsim Sha Tsui",Tsim Sha Tsui,Sichuan,Stir-Fry,657,36600
+Oasis Bar & Grill,$201-400,991,14,"8/F, 1 Knutsford Terrace, Tsim Sha Tsui, Tsim Sha Tsui",Tsim Sha Tsui,Western,Steak House,1073,35500
+Easy Joe 二世祖,$101-200,399,9,"G/F, 18 Fuk Tsun Street, Tai Kok Tsui",Tai Kok Tsui,Japanese,Dessert,486,27700
+Asa 朝,$201-400,375,15,"G/F, 39 Tai Nan Street, Prince Edward",Prince Edward,Japanese,Sushi/Sashimi,414,11900
+Wenger Noodle (328 Plaza) 雲家小鍋米線 (328廣場),Below $50,411,13,"Shop G01, G/F, 328 Plaza, 328 Sha Tsui Road, Tsuen Wan",Tsuen Wan,Yunnan,Noodles/Rice Noodles,516,19700
+Gekiyasu Yakiniku 驚安燒肉商店,$201-400,293,4,"Shop C, 3/F, China Insurance Building, 48 Cameron Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Wine,337,38300
+Childhood Japanese Restaurant 稚,$51-100,520,16,"Shop 3, G/F, Kuen Yick Building, 18 Chun Yin Square, Yuen Long",Yuen Long,Japanese,,597,16000
+The Oyster House,$201-400,649,26,"Shop C, G/F, 154 Jaffe Road, Wan Chai",Wan Chai,Italian,Seafood,745,33800
+HeSheEat (銅鑼灣地帶),$51-100,1156,50,"Shop 201, 2/F, Causeway Place, 2-10 Great George Street, Causeway Bay",Causeway Bay,Western,Dessert,1478,23600
+Grandmama Cafe 婆婆珈琲屋,$101-200,278,20,"1/F, The Nate, 176 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Dessert,491,37400
+Uni.kotomo 海膽仔,$101-200,613,10,"Shop Q, G/F, San Po Kong Mansion, 2-32 Yin Hing Street, San Po Kong",San Po Kong,Japanese,Ramen,669,9000
+Espresso Alchemy,$51-100,412,2,"Shop G02, G/F, Nina Mall 1, 8 Yueng Uk Road, Tsuen Wan",Tsuen Wan,Western,Sandwich,466,9500
+A.T.A.S,$51-100,408,20,"Shop C2, G/F, Dragon Rise, 9-11 Pennington Street, Causeway Bay",Causeway Bay,Singaporean,Noodles/Rice Noodles,500,21300
+Toriyamana 鳥山名,$201-400,529,5,"Shop 1025-1026, 1/F, Discovery Park, 398 Castle Peak Road (Tsuen Wan), Tsuen Wan",Tsuen Wan,Japanese,Ramen,602,9000
+Hotspot 火鍋隨意門,$201-400,425,3,"Room A, 1/F, Top View Mansion, 10 Canal Road West, Causeway Bay",Causeway Bay,International,Hot Pot,458,13600
+Kausumisu 牛匠石燒,$201-400,511,12,"G/F, Fook Kiu Mansion, 34-36A Cameron Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Ramen,571,14300
+Café Crêpe (威靈頓街),$101-200,501,8,"G/F, 15B Wellington Street, Central",Central,International,Pizza,567,16100
+Tenohira Sushi 掌壽司,$201-400,764,34,"Flat U, 5/F, Block 3, Camel Paint Buildings, 60 Hoi Yuen Street, Kwun Tong",Kwun Tong,Japanese,Sushi/Sashimi,923,33500
+B+BC Cafe (TKO Plaza) 桂花小幸 (將軍澳廣場),$51-100,665,28,"Shop 133-135, 1/F, TKO Plaza, 1 Tong Tak Street, Tseung Kwan O",Tseung Kwan O,Taiwan,Taiwanese Drink,829,13500
+Little Fish (Kam Ma Building) 小魚兒 (金馬大廈),$201-400,489,9,"1/F, Kam Ma Building, 16 Cameron Road, Tsim Sha Tsui",Tsim Sha Tsui,Sichuan,Hot Pot,564,28900
+Seoulmate (MONTEREY Place),$101-200,415,22,"Shop G25B-G26A, G/F, MONTEREY Place , 23 Tong Chun Street, Tseung Kwan O",Tseung Kwan O,Korean,Dessert,502,10900
+Sawadee Thai 泰屋,$101-200,651,17,"2/F, 726 Nathan Road, Mong Kok",Mong Kok,Thai,Seafood,769,23000
+No Money So Lonely,$101-200,419,23,"Shop 406-408, 4/F, T.O.P This is Our Place, 700 Nathan Road, Mong Kok",Mong Kok,Thai,Seafood,536,20800
+Channel 3 Tapas Bar & Restaurant,$101-200,978,28,"G/F, 228 Tung Choi Street, Prince Edward",Prince Edward,Spanish,Bar,1082,13400
+Paper Moon,$201-400,267,62,"Shop OTE301, 3/F, Ocean Terminal, Harbour City, 3-27 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,Italian,Pizza,573,74900
+Pancake House HoiHoi (Megabox),$101-200,410,17,"Shop 19-20, 1/F, Enterprise Square Five, Megabox, 38 Wang Chiu Road, Kowloon Bay",Kowloon Bay,Japanese,Dessert,529,9800
+E FOR EGG,$51-100,304,4,"G/F, Shing Ho Building, 19-25 Shing Ho Road, Tai Wai",Tai Wai,Korean,Coffee Shop,402,23900
+Hunky Dory,$101-200,407,13,"Room 245, 2/F, Building 19W, 19 Science Park West, Hong Kong Science Park, Pak Shek Kok, Sha Tin",Sha Tin,International,Hamburger,462,7300
+The Salted Pig (新城市廣場),$101-200,387,25,"Shop 702, 7/F, New Town Plaza Phase 1, 18 Sha Tin Centre Street, Sha Tin",Sha Tin,Western,,485,15400
+Thaiology (Causeway Bay Plaza) 泰 (銅鑼灣廣場),$101-200,333,17,"6/F, Causeway Bay Plaza 2, 463-483 Lockhart Road, Causeway Bay",Causeway Bay,Thai,,402,19400
+Wingman,$101-200,391,2,"17/F, Mongkok Metro, 594-596 Nathan Road, Mong Kok",Mong Kok,Western,Wine,415,12600
+MUTA Restaurant by ATUM,$101-200,409,7,"Shop B131, B1/F, Mira Place One, 132 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Yoshoku,475,29200
+WM Café & Bar (海之戀商場),$51-100,386,23,"Shop 3094, 3/F, OP Mall, 100 Tai Ho Road, Tsuen Wan",Tsuen Wan,Western,Pizza,466,8600
+Siam Noodles (Lock Road) 泰濃麵 (樂道),$51-100,492,9,"Shop A, G/F, Kar Lock Building, 7 Lock Road, Tsim Sha Tsui",Tsim Sha Tsui,Thai,,590,18200
+Chicago (Tai Wo Centre) 芝加哥串燒酒場 (太和中心),$101-200,566,3,"Shop 37, G/F, Tai Wo Centre, 15 Tai Po Tai Wo Road, Tai Po",Tai Po,International,Skewer,601,7800
+Taiwai Dining Room 大圍小館,$101-200,354,10,"G/F, 92 Chik Fuk Street, Tai Wai",Tai Wai,Guangdong,Hong Kong Style,437,23600
+Chef's Stage Kitchen (西菁街),$201-400,526,8,"G/F., 52-56 Manhattan Plaza , 23 Sai Ching Street, Yuen Long",Yuen Long,Western,Hamburger,624,25000
+GRIND SIZE,$51-100,329,5,"G/F, 10 Tung Choi Street, Mong Kok",Mong Kok,Western,All Day Breakfast,373,15700
+Cocina 3 Tapas Restaurant & Bar,$201-400,958,50,"Shop G22, G/F, Olympian City 3, 1 Hoi Wang Road, Tai Kok Tsui",Tai Kok Tsui,Spanish,Bar,1130,13300
+Be Leaf,$101-200,638,30,"Shop 2, G/F, King Palace Plaza, 55 King Yip Street, Kwun Tong",Kwun Tong,International,Dessert,795,29100
+The Ground Kitchen,$201-400,414,5,"G/F, 47 Water Street, Sai Ying Pun, Western District",Western District,Western,All Day Breakfast,451,13400
+Contrast,$51-100,333,15,"G/F, Easey Building, 512-518 Fuk Wing Street, Cheung Sha Wan",Cheung Sha Wan,Western,Coffee Shop,471,31900
+Odelice! (蘭杜街),$101-200,725,40,"Shop 9, G/F, 2 Landale Street, Wan Chai",Wan Chai,French,Western,896,42300
+AnyMomentCafé,$51-100,466,4,"9/F, Hanway Commercial Centre, 36 Dundas Street, Mong Kok",Mong Kok,Western,Upper-floor Cafe,504,5000
+Lao Cuo Bian 老厝邊,$51-100,433,18,"G/F, 92 Ivy Street, Tai Kok Tsui",Tai Kok Tsui,Taiwan,,530,14300
+Pandan Leaf Indonesian Restaurant 班蘭葉印尼餐廳,$51-100,493,5,"Shop B2, G/F, Causeway Bay Commercial Building, 1-5 Sugar Street, Causeway Bay",Causeway Bay,Indonesian,Noodles/Rice Noodles,543,16800
+Goobne Chicken (The Hart),$101-200,789,24,"2/F, The HART, 4 Hart Avenue, Tsim Sha Tsui",Tsim Sha Tsui,Korean,Korean Fried Chicken,1023,58100
+La Moo Moo' s Steak and Fries,$201-400,659,15,"18/F, 239 Hennessy Road, Wan Chai",Wan Chai,Australian,Western,707,17600
+Chiba (Kiu Kin Building) 吃吧 (僑建大廈),$101-200,713,13,"Room 2, 2/F, Kiu Kin Building, 566-568 Nathan Road, Mong Kok",Mong Kok,Western,Wine,827,33800
+SuperNormal (淘大商場),$101-200,521,3,"Shop 196-199, G/F, Phase 2, Amoy Plaza, 77 Ngau Tau Kok Road, Kowloon Bay",Kowloon Bay,Italian,Wine,568,13300
+羅東肉焿番,$51-100,649,26,"Shop 5 , G/F, Kin Fai Building, 69 Fung Cheung Road, Yuen Long",Yuen Long,Taiwan,Dessert,856,22100
+Master Beef (Hollywood Plaza) 牛大人台灣火鍋吃到飽 (荷李活商業中心),$101-200,416,8,"B1/F, Hollywood Plaza, 610 Nathan Road, Mong Kok",Mong Kok,Taiwan,Hot Pot,479,28700
+TONO DAIKIYA 殿 大喜屋,$201-400,801,43,"1/F, 26 Kimberley Road, Tsim Sha Tsui",Tsim Sha Tsui,Japanese,Sushi/Sashimi,1105,85400
+Almond Dessert (Champagne Building) 杏甜品 (香檳大廈),$51-100,449,11,"Shop 6, G/F, Champagne Building, 40-46 Carnarvon Road, Tsim Sha Tsui",Tsim Sha Tsui,Hong Kong Style,Dessert,533,10700
+Acquasala,$201-400,317,8,"G/F & M/F, 13 Elgin Street, Soho, Central",Central,International,Dessert,355,21500
+Biang Biang Noodles 露面手工拌麵料理,$51-100,399,24,"Shop A, G/F, 55 Johnston Road, Wan Chai",Wan Chai,Taiwan,Noodles/Rice Noodles,468,15000
+NUTTEA (旺角中心）,Below $50,366,2,"Shop F52, 1/F, Argyle Centre, 688 Nathan Road, Mong Kok",Mong Kok,Taiwan,Taiwanese Drink,392,6200
+Opa Mediterranean Bar and Bistro,$201-400,447,15,"Shop 1-2, G/F, Union Mansion, 33-35 Chatham Road South, Tsim Sha Tsui",Tsim Sha Tsui,Mediterranean,Western,486,12500
+Seansin Seafood Experts 尚鮮海鮮料理,$201-400,624,4,"1/F Gofuku Tower,62-64 Woosung Street,Jordan, Jordan",Jordan,Hong Kong Style,Hot Pot,660,11500
+Big Boil's Club 大滾友火鍋,$201-400,462,13,"Shop G4-G5, G/F, Ho Shun Lee Building Block 1, 9 Fung Yau Street South, Yuen Long",Yuen Long,Hong Kong Style,Hot Pot,517,15100
+Lantern Seafood Restaurant 神燈海鮮酒家,$101-200,394,17,"G/F & 1/F, Place 18, 14-20 Cheung Lok Street, Jordan",Jordan,Guangdong,Seafood Restaurant,485,16900
+INN - I’m Not Nothing,$101-200,433,11,"Shop 203, 2/F, Elite Industrial Centre, 883 Cheung Sha Wan Road, Lai Chi Kok",Lai Chi Kok,International,Dessert,500,18400
+Hungry Monkey (金朝陽中心二期),$201-400,374,14,"Shop B, G/F, Midtown Soundwill Plaza II, 1 Tang Lung Street, Causeway Bay",Causeway Bay,Japanese,Teppanyaki,418,18800
+野川拉麵の深燒食堂,$51-100,511,14,"Shop B, G/F,Wing Fung Building, 40-48 Yau San Street, Yuen Long",Yuen Long,Japanese,Ramen,581,9300
+The BASE nature,$51-100,556,19,"Shop 70, UG/F, City Walk 1, 1 Yeung Uk Road, Tsuen Wan",Tsuen Wan,International,Hamburger,692,28700
+Kane Tsuru Ramen (Min Street) 金鶴拉麵 (閩街),$101-200,744,13,"G/F, 3 Min Street, Jordan",Jordan,Japanese,Ramen,875,25300
+BaliTown 峇里堂,$51-100,290,12,"3/F, The Nate, 176 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Indonesian,Coffee Shop,351,20600
+Green Waffle Diner (希慎廣場),$101-200,610,21,"Shop 1303, 13/G, Hysan Place, 500 Hennessy Road, Causeway Bay",Causeway Bay,Western,Dessert,775,26300
+HeSheEat (綠楊坊),$51-100,634,19,"Shop G15-16, G/F, Luk Yeung Galleria, 22-66 Wai Tsuen Road, Tsuen Wan",Tsuen Wan,Western,Dessert,756,6900
+Dim Sum Here 點心到,$51-100,369,2,"Shop 6-8, G/F, Wah Chi Mansion, 286-298 Temple Street, Jordan",Jordan,Guangdong,Dim Sum,433,14500
+Chill and Grill,$201-400,337,9,"G/F, 57 Cadogan Street, Western District",Western District,Western,All Day Breakfast,399,20100
+Chapter 3 Steak Bar & Restaurant,$101-200,572,26,"Shop J, G/F, 232-234 Fa Yuen Street, Prince Edward",Prince Edward,Western,,633,5700
+Chatterbox Café,$101-200,395,31,"Shop B110, B1/F, K11 Musea, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",Tsim Sha Tsui,Singaporean,Food Wise Eateries,579,15300
+The Market,$401-800,540,63,"2/F, Hotel ICON, 17 Science Museum Road, Tsim Sha Tsui",Tsim Sha Tsui,International,Seafood,847,84200
+Waki Shokudo (Wong Tai Sin Shopping Centre) 和氣食堂 (黃大仙中心),$101-200,930,15,"Shop G12A, G/F, Temple Mall South, 103 Ching Tak Street, Wong Tai Sin",Wong Tai Sin,Japanese,Sushi/Sashimi,1070,13200
+Boy n Burger,$51-100,365,10,"Shop 3, G/F, 208 Johnston, 206-212 Johnston Road, Wan Chai",Wan Chai,American,Vegetarian,415,15000
+Kani Kei 蟹慶,$201-400,440,12,"B/F, Macau Yat Yuen Centre, 525 Hennessy Road, Causeway Bay",Causeway Bay,Japanese,Seafood,486,23100
+雪山冰廳,$51-100,577,23,"G/F, 62D Castle Peak Road, Sham Shui Po",Sham Shui Po,Hong Kong Style,Tea Restaurant,717,17500
+Ladies Street Sik Fan Co. 女人街食飯公司,$101-200,542,19,"Shop B, 1/F, Witty Commercial Building, 1A-1L Tung Choi Street, Mong Kok",Mong Kok,Hong Kong Style,Stir-Fry,694,34800
+Grill ขุนทอง (和安里),$101-200,799,4,"G/F, 1 Wo On Lane, Central",Central,Thai,Skewer,858,22400
+Nara Thai Cuisine (新城市廣場),$101-200,426,53,"Shop 507, 5/F, New Town Plaza, 18 Sha Tin Centre Street, Sha Tin",Sha Tin,Thai,,639,22600
+Fast Gourmet (Shin Hing Street) 享慢煮意 (善慶街),$101-200,416,37,"G/F, 9 Shin Hing Street, Central",Central,French,Salad,550,32400
+HEXA 六公館,$401-800,453,42,"Shop OTE 101, G/F, Ocean Terminal, Harbour City, 3-27 Canton Road, Tsim Sha Tsui",Tsim Sha Tsui,Guangdong,Stir-Fry,702,54400
+Master Beef (Crocodile Center) 牛大人台灣火鍋吃到飽 (鱷魚恤中心),$101-200,320,6,"5/F, Crocodile Center, 79 Hoi Yuen Road, Kwun Tong",Kwun Tong,Taiwan,Hot Pot,374,28700
+Potluck Eatery,$201-400,517,5,"G/F, Golden Gate Commercial Building, 136-138 Austin Road, Tsim Sha Tsui",Tsim Sha Tsui,Western,Pizza,574,37500
+Gyu Sou Ichuya 牛惣居酎屋,$401-800,473,13,"22/F, Circle Tower, 28 Tang Lung Street, Causeway Bay",Causeway Bay,Japanese,Izakaya,512,16300
+二鍋頭 (福苑),$101-200,550,3,"2/F, Fortune Crest, 138 Sai Yeung Choi Street South, Mong Kok",Mong Kok,Hong Kong Style,Hot Pot,586,17700
+DONYIN DINER 丼燃食堂,$51-100,367,6,"Shop 6, G/F, Hung Wai Building, 3-5 Fa Yuen Street, Mong Kok",Mong Kok,Japanese,Sushi/Sashimi,418,12800
+Le Viet,$101-200,715,28,"Shop L402, 4/F, The ONE, 100 Nathan Road, Tsim Sha Tsui",Tsim Sha Tsui,Vietnamese,Skewer,896,30600
+Comfy by Chef's Stage (東廣場),$101-200,322,3,"Shop 25-31&59, G/F, E Plaza, 7 Shing Yip Street, Kwun Tong",Kwun Tong,Western,Hamburger,364,11500
+Flagship,$201-400,332,5,"G/F, 35 Ship Street, Wan Chai",Wan Chai,Western,Steak House,358,12000
+Tian Tian Hainanese Chicken Rice (ELEMENTS) 天天海南雞飯 (ELEMENTS圓方),$101-200,407,41,"Shop 1050A, 1/F, Water Zone, ELEMENTS, 1 Austin Road West, Tsim Sha Tsui",Tsim Sha Tsui,Singaporean,,535,9400
+The Optimist,$201-400,242,16,"G/F-2/F, 239 Hennessy Road, Wan Chai",Wan Chai,Spanish,Wine,386,74000
