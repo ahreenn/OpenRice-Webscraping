@@ -10,7 +10,7 @@ This webscraping project utilized BeautifulSoup and Selenium to scrape OpenRice.
 - README.md
 - Top Restaurants in HK based on Openrice - EDA.ipynb
 - Top Restaurants in HK based on Openrice - Webscraping, Creating the CSV File.ipynb
-- Web scraping Project - Openrice.ppt
+- Web scraping Project - Openrice.pdf
 - openrice_raw_dataframe.csv
 
 # Project Steps
